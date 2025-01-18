@@ -1,1 +1,1 @@
-<h1 align="center">Привет👋 Меня зовут Павел!</h1>
+<h1 align="center">Hi there! My name is Pavel</h1>
